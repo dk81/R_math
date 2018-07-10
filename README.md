@@ -1,2 +1,2 @@
 # R_math
-Mathematics In R Programming Experimental Work
+Mathematics, Probability & Statistics In R Experimental Work
